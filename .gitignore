@@ -5,8 +5,8 @@ __pycache__/
 
 resutls/
 data/
-*__pycache__
-.ipynb_checkpoints
+**/__pycache__
+**/.ipynb_checkpoints
 
 # C extensions
 *.so
